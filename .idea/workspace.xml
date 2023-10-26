@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="342a3cd7-65ea-442a-a813-df901c1a95a1" name="Changes" comment="add gift and main (still need to add bonus)">
-      <change afterPath="$PROJECT_DIR$/resources/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/Gift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/Gift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/Main.java" afterDir="false" />
+    <list default="true" id="342a3cd7-65ea-442a-a813-df901c1a95a1" name="Changes" comment="add bonus of first exercise with .txt">
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/bonus/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/data.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LambertoNeri"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="eb8fa776-72dd-43db-9f7a-4586738ccbdf" />
+        <option name="url" value="https://github.com/LambertoNeri/java-wish-list.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -43,7 +55,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/classe 7 corso java/java-wish-list/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.lessons.java.Main" />
       <module name="java-wish-list" />
@@ -57,8 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lessons.java.bonus.main" />
+      <module name="java-wish-list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lessons.java.bonus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -80,12 +106,29 @@
       <option name="project" value="LOCAL" />
       <updated>1698326585317</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add bonus of first exercise with .txt">
+      <option name="closed" value="true" />
+      <created>1698329499275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698329499275</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add bonus of first exercise with .txt">
+      <option name="closed" value="true" />
+      <created>1698329549020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698329549020</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add gift and main (still need to add bonus)" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gift and main (still need to add bonus)" />
+    <MESSAGE value="add bonus of first exercise with .txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bonus of first exercise with .txt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
